@@ -50,7 +50,7 @@ class MyHomePage extends StatelessWidget {
                         color: Colors.orange[900],
                       ),
                     ),
-                    SizedBox(height: 40),
+                    SizedBox(height: 50),
                     Container(
                       padding: EdgeInsets.all(10),
                       decoration: BoxDecoration(
